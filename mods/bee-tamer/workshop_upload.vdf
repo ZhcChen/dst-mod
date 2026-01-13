@@ -1,0 +1,19 @@
+"workshopitem"
+{
+	"appid"		"322330"
+	"contentfolder"		"/Users/chen/code/dst-mod/mods/bee-tamer"
+	"previewfile"		"/Users/chen/code/dst-mod/mods/bee-tamer/modicon.png"
+	"visibility"		"2"
+	"title"		"蜂群驯化师 (Bee Tamer)"
+	"description"		"驯化蜜蜂成为你的战斗宠物！
+
+功能特点：
+- 使用驯蜂笛驯化普通蜜蜂
+- 蜂巢袋收纳和释放蜜蜂
+- 指挥棒控制蜜蜂战斗
+- 蜜蜂可通过战斗升级（兵→将→王→皇→帝）
+
+[开发测试版本]"
+	"changenote"		"v0.1.1 修复服务器无法启动的问题"
+	"publishedfileid"		"3640383781"
+}
